@@ -45,7 +45,6 @@ void loop() {
         LEDstrip.setPixelColor(i,0,0,250); //B
         //LEDstrip.setPixelColor(i,50,10*i,255-5*i);
       }
-      //
       if(L==3)
       {
         LEDstrip.setPixelColor(i,120,0,120); //B
