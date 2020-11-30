@@ -17,20 +17,13 @@ void setup()
 int L=0;
 
 void loop() {
-
-
- 
- 
   // switch controller      
   if(digitalRead(2) == HIGH)
   {
     LEDstrip.clear();
   }
   else
-  {
-
-  
-  
+  {  
     for(int i=0; i<100; i++)
     {
       if(L>3)
@@ -57,18 +50,10 @@ void loop() {
       {
         LEDstrip.setPixelColor(i,120,0,120); //B
         //LEDstrip.setPixelColor(i,5*i,50+10*i,30);
-      }        
-      //    
+      } 
       LEDstrip.show();
       delay(5);
     }
     L+=1;
   }
-  
- 
-  
-
-  
-  
-  
 }
