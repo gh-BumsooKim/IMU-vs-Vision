@@ -30,9 +30,7 @@ void loop(){
   digitalWrite(led_set[0], HIGH);
   
   // detect button input
-  if (digitalRead(button) == LOW){
-    status = 1;
-  }
+  if (digitalRead(button) == LOW){ status = 1; }
   
   // main code to mimics a 'traffic light'
   if (status == 1){
