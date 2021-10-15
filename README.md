@@ -1,10 +1,16 @@
-# Arduino-Artwork
-This repository is the Robotic Artwork using "Arduino" , "3D modeling", and Interaction sensor.
+# IMU vs Vision
+
+IMU Sensor versus Vision Camera using Hands-Gesture Recognition
+
+- Arduino Nano, Arduino Uno
+- Raspberrt Pi 4B
+- IMU, LED Dot Matrix, Webcam
 
 ## Pre-Application
 
 **Pixel Game Release v1.0.0 to be Annouced**
 
+<!--
 ## Examples
 
 ```ino
@@ -23,3 +29,4 @@ if (status == 1){
 <p align="center">
   <img src="example/traffic_light.png">
 </p>
+/--> 
