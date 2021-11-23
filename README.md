@@ -1,14 +1,31 @@
 # IMU vs Vision
 
-IMU Sensor versus Vision Camera using Hands-Gesture Recognition
+## This gif shows Project Prototype! using 1 IMU Sensor.
+
+<p align="center">
+  <img src="imgs/prototype.gif"><br>
+  Title : <b>IMU Sensor</b> versus <b>Vision Algorithm</b> for Hands-Gesture Recognition
+</p>
+
+
+
+## Implementation
 
 - Arduino Nano, Arduino Uno
 - Raspberrt Pi 4B
 - IMU, LED Dot Matrix, Webcam
 
-## Pre-Application
+## IMU Part
 
-**Pixel Game Release v1.0.0 to be Annouced**
+- IMU Pre-processing
+
+![image](https://user-images.githubusercontent.com/67869508/143076230-b5bd09ab-3aad-4d4a-a3d5-f02ecf64137d.png)
+
+- IMU Data Annotation
+
+![image](https://user-images.githubusercontent.com/67869508/143076283-6f137ca6-219a-4226-95b3-ff5b8859ab5f.png)
+
+
 
 <!--
 ## Examples
