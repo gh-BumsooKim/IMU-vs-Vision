@@ -17,11 +17,12 @@
 
 ## IMU Part
 
-- IMU Pre-processing
+- IMU Data Processing Diagram
 
-![image](https://user-images.githubusercontent.com/67869508/143076230-b5bd09ab-3aad-4d4a-a3d5-f02ecf64137d.png)
+![image](https://user-images.githubusercontent.com/67869508/143436016-10103eea-8b2e-45d1-be06-7d9a310a604b.png)
 
-- IMU Data Annotation
+
+- IMU Data Class Annotation
 
 ![image](https://user-images.githubusercontent.com/67869508/143076283-6f137ca6-219a-4226-95b3-ff5b8859ab5f.png)
 
